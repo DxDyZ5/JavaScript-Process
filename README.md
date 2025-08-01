@@ -1,5 +1,5 @@
 # Resources
- Solution following a O(N) approach.
+ Solution following an O(N) approach.
 - https://www.geeksforgeeks.org/dsa/what-does-big-on2-complexity-mean/
 - https://www.geeksforgeeks.org/dsa/analysis-algorithms-big-o-analysis/
 
