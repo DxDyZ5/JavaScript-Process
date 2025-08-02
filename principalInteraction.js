@@ -1,6 +1,6 @@
 "use strict"; // 5/5
 
-"use strict"; // 5/5
+
 
 function getMaxSubSum(arr) {
   let currentSum = 0;
